@@ -6,3 +6,9 @@ git status - to view modification
 git add - to stage files (command - git add filename)
 git commit -m "local commit" - to commit the staged changes
 
+
+cd .. - back one folder
+ls / dir - list files in directory
+mkdir - create a folder
+cd - change directory
+
