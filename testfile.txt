@@ -1,3 +1,8 @@
 Creating a sample file
 Setting user name & email : https://help.github.com/en/articles/setting-your-username-in-git
 git clone https://github.com/subash1587/git-learn.git
+git log - to see commits
+git status - to view modification
+git add - to stage files
+git commit -m "local commit" - to commit the staged changes
+
