@@ -1,1 +1,3 @@
 Creating a sample file
+Setting user name & email : https://help.github.com/en/articles/setting-your-username-in-git
+git clone https://github.com/subash1587/git-learn.git
